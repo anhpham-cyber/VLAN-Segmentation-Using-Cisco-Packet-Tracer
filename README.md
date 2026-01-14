@@ -14,5 +14,9 @@ This home lab demonstrates **network segmentation using VLANs** on a single Cisc
 - Verify VLAN configuration and port membership  
 - Demonstrate logical separation of network traffic  
 
-The full lab documentation, including step-by-step implementation, network diagrams, and verification results, is provided in the attached PDF:  
-**[VLAN Segmentation Using Cisco Packet Tracer.pdf]**
+## Files in this Repository
+- **[VLAN Segmentation Using Cisco Packet Tracer.pdf]** – Full lab documentation with step-by-step implementation and diagrams  
+- **VLANs setup.pkt** – Cisco Packet Tracer file containing the lab configuration  
+
+This project is intended for learning VLAN configuration, switch management, and network segmentation principles.
+
